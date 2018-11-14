@@ -19,7 +19,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 Vulnerability #1: SQL Injection
 ![](pt_sql.gif)
 
-Vulnerability #2: Session Hijacking/Fixation
+Vulnerability #2: __________
 
 
 ## Green
@@ -36,9 +36,9 @@ Vulnerability #2: Cross-Site Scripting
 Vulnerability #1: Insecure Direct Object Referencing
 ![](pt_idor.gif)
 
-Vulnerability #2: Cross-Site Request Forgery
+Vulnerability #2: __________
 
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+I was unable to find the CSRF and Session Hijacking exploits.
