@@ -39,6 +39,4 @@ Vulnerability #1: Insecure Direct Object Referencing
 Vulnerability #2: __________
 
 
-## Notes
 
-I was unable to find the CSRF and Session Hijacking exploits.
